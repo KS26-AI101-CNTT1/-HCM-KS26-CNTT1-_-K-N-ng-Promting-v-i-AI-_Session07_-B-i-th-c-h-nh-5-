@@ -60,16 +60,13 @@ Sinh viên phải nộp:
 
 Prompt thiết lập vai trò người chấm.
 
-# VAI TRÒ Bạn là Giảng viên Đại học chuyên môn về viết học thuật. Hãy chấm điểm đoạn văn (~300 từ) chủ đề *"Vai trò của AI trong hoạt động học tập của sinh viên đại học"* một cách khách quan. 
-
-# QUY ĐỊNH BẮT BUỘC - Giữ nguyên thang điểm tối đa (Tổng 10 điểm). - Không chấm cảm tính, không cộng điểm vì bài dài. - Mọi điểm số đều phải trích dẫn **minh chứng cụ thể** từ bài viết. - Chỉ rõ lỗi sai và gợi ý cách sửa.
-
+# VAI TRÒ Bạn là Giảng viên Đại học chuyên môn về viết học thuật. Hãy chấm điểm đoạn văn (~300 từ) chủ đề *"Vai trò của AI trong hoạt động học tập của 
+sinh viên đại học"* một cách khách quan. 
+# QUY ĐỊNH BẮT BUỘC - Giữ nguyên thang điểm tối đa (Tổng 10 điểm). - Không chấm cảm tính, không cộng điểm vì bài dài. - Mọi điểm số đều phải trích dẫn 
+**minh chứng cụ thể** từ bài viết. - Chỉ rõ lỗi sai và gợi ý cách sửa.
 Rubric dưới dạng bảng.
-
 # BẢNG RUBRIC | Tiêu chí | Điểm tối đa | Yêu cầu | | :--- | :---: | :--- | | Đúng chủ đề | 2.0 | Bám sát chủ đề, đúng hình thức đoạn văn (~300 từ). | | Nội dung & Lập luận | 3.0 | Ý tưởng sâu sắc, đa chiều (lợi ích & rủi ro), logic. | | Ví dụ minh họa | 2.0 | Có ví dụ thực tế gắn với sinh viên đại học. | | Cấu trúc bài viết | 1.5 | Đủ Mở - Thân - Kết đoạn, chuyển ý mượt mà. | | Ngữ pháp & Diễn đạt | 1.5 | Văn phong học thuật, không sai chính tả/ngữ pháp. | 
-
 # ĐỊNH DẠNG ĐẦU RA 1. **Bảng đối chiếu:** Tiêu chí | Điểm | Minh chứng trích dẫn | Lý do & Lỗi. 2. **Nhận xét:** Điểm mạnh & Điểm yếu. 3. **Đề xuất cải thiện:** Chỉ ra câu lỗi và viết lại. 
-
 **BÀI VIẾT CẦN CHẤM:** [Dán bài viết vào đây]
 
 Một bài viết mẫu khoảng 300 từ.
@@ -82,36 +79,30 @@ Tiêu chí	Điểm	Minh chứng từ bài viết	Lý do chấm & Lỗi cần lư
 
 Đúng chủ đề	2.0 / 2.0	"AI... làm thay đổi sâu sắc phương thức học tập của sinh viên đại học" (296 từ).	Bám sát chủ đề, đúng dung lượng quy định.
 
-Nội dung & Lập luận	2.75 / 3.0	Nêu 2 lợi ích (tối ưu nghiên cứu, gia sư ảo) và 1 rủi ro (lạm dụng AI làm hộ tiểu luận).	Lập luận hai chiều sắc bén. Trừ 0.25đ vì nêu ý "cá nhân hóa lộ trình" nhưng chưa giải thích rõ.
+Nội dung & Lập luận	2.75 / 3.0	Nêu 2 lợi ích (tối ưu nghiên cứu, gia sư ảo) và 1 rủi ro (lạm dụng AI làm hộ tiểu luận).	Lập luận hai chiều sắc bén. Trừ 
+
+0.25đ vì nêu ý "cá nhân hóa lộ trình" nhưng chưa giải thích rõ.
 
 Ví dụ minh họa	2.0 / 2.0	"dùng GitHub Copilot gợi ý mã nguồn", "phân tích dữ liệu khảo sát".	Ví dụ cụ thể, thực tế theo từng nhóm ngành.
 
 Cấu trúc bài viết	1.5 / 1.5	Đủ câu mở đoạn, từ nối (Trước hết, Thứ hai, Tuy nhiên), câu kết (Tóm lại...).	Bố cục đoạn văn chặt chẽ, liên kết mạch lạc.
 
-Ngữ pháp & Diễn đạt	1.25 / 1.5	"...dẫn đến tình trạng thui chột tư duy phản biện và vi phạm đạo đức học thuật..."	Trừ 0.25đ vì câu này gộp 2 hệ quả khác bản chất khiến logic hơi nặng nề.
+Ngữ pháp & Diễn đạt	1.25 / 1.5	"...dẫn đến tình trạng thui chột tư duy phản biện và vi phạm đạo đức học thuật..."	Trừ 0.25đ vì câu này gộp 2 hệ quả khác 
+
+bản chất khiến logic hơi nặng nề.
 
 TỔNG ĐIỂM	9.5 / 10		Bài viết tốt, dẫn chứng thuyết phục.
 
 Nhận xét và đề xuất cải thiện.
-
 Điểm mạnh: Tư duy phản biện hai chiều (lợi ích - tác hại); ví dụ thực tế sát với sinh viên; kiểm soát số từ chuẩn xác.
-
 Điểm yếu: Luận điểm "cá nhân hóa lộ trình" chưa khớp hoàn toàn với phần giải thích; có câu ghép ý hơi dài.
-
 Đề xuất sửa: Tách câu cuối thân đoạn thành 2 câu để rõ nghĩa: "Nhiều sinh viên lạm dụng AI làm hộ tiểu luận, dẫn đến thui chột tư duy phản biện. Nguy hiểm hơn, việc sao chép thông tin sai lệch do AI tạo ra còn khiến họ vi phạm đạo đức học thuật."
-
 Bảng đối chiếu giữa từng tiêu chí, điểm số và minh chứng.
-
 Tiêu chí	Điểm	Minh chứng từ bài viết	Lý do & Lỗi cần lưu ý
-
 Đúng chủ đề	2.0 / 2.0	"AI... làm thay đổi sâu sắc phương thức học tập của sinh viên đại học." (296 từ)	Bám sát chủ đề, đúng dung lượng quy định.
-
 Nội dung & Lập luận	2.75 / 3.0	Nêu 2 lợi ích (tối ưu nghiên cứu, gia sư ảo) và 1 rủi ro (lạm dụng làm hộ tiểu luận).	Lập luận hai chiều tốt. Trừ 0.25đ vì nêu ý "cá nhân hóa lộ trình" nhưng chưa giải thích rõ.
-
 Ví dụ minh họa	2.0 / 2.0	"dùng GitHub Copilot gợi ý mã nguồn", "phân tích dữ liệu khảo sát".	Ví dụ thực tế, phân hóa rõ theo từng ngành học.
-
 Cấu trúc bài viết	1.5 / 1.5	Đủ Mở đoạn, từ nối (Trước hết, Thứ hai, Tuy nhiên), Kết đoạn (Tóm lại...).	Bố cục chặt chẽ, chuyển ý mạch lạc.
-
 Ngữ pháp & Diễn đạt	1.25 / 1.5	"...dẫn đến tình trạng thui chột tư duy phản biện và vi phạm đạo đức học thuật..."	Trừ 0.25đ vì câu này gộp 2 hệ quả khác bản chất khiến diễn đạt hơi nặng nề.
-
 TỔNG ĐIỂM	9.5 / 10.0		Bài viết tốt, dẫn chứng thuyết phục.
+
